@@ -1,0 +1,39 @@
+.textbox{
+  height: 146px;
+  background-color: lightblue;
+}
+
+#b1{
+	margin-left: 1%;
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	background-image: url("emoji.jpg");
+	background-size:100% 100%;
+}
+
+#b2{
+	margin-left: 1%;
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	background-image: url("picicon.jpg");
+	background-size:100% 100%;
+}
+
+#b3{
+	margin-left: 1%;
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	font-weight: bold;
+	background-image: url("send.jpg");
+	background-size:100% 100%;
+}
+
+.inputbox{
+	margin-top: 8px;
+	margin-left: 1%;
+	width: 98%;
+	height: 80px;
+}

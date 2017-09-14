@@ -1,0 +1,32 @@
+
+.title {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 30px;
+  font-weight: bold;
+  width: 98%;
+  margin-left: 1%;
+}
+
+.msgbgd{
+  padding-top: 10px;
+  margin-left: 1%;
+  width: 98%;
+  height: 540px;
+  background-color: lightgray;
+}
+
+.msgwin{
+  padding-left: 20px;
+}
+
+.tbx{
+  width: 98%;
+  margin-left: 1%;
+}
+
+
